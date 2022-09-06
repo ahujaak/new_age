@@ -1,5 +1,10 @@
 # README
 
+#### Database Design:
+![New Age DB design](https://user-images.githubusercontent.com/32529060/188628983-67358d84-df58-4642-b466-70e9f29d0502.png)
+
+
+#### Configuration: 
 * Ruby version
   2.7.2
 * System dependencies
